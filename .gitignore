@@ -1,4 +1,5 @@
+venv/
 .venv/
-myenv_09082024/
-myenv_06082024/
+mynenv_09082024/
+mainenv_06082024/
 testenv/
