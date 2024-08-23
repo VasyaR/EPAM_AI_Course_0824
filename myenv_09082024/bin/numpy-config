@@ -1,4 +1,4 @@
-#!/home/beav3r/myCourseswsl/EPAMAI0824wsl/myenv_09082024/bin/python3
+#!/home/beav3r/myCourseswsl/EPAM_AI_Course_0824_wsl/myenv_09082024/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
