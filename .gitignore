@@ -2,5 +2,6 @@ venv/
 .venv/
 .venv
 /myenv_09082024/
+myenv_09082024/
 mainenv_06082024/
 testenv/
